@@ -1,0 +1,40 @@
+package exercises;
+
+import java.nio.DoubleBuffer;
+import java.util.Scanner;
+
+public class Exercise6 {
+
+	public static void main(String[] args) {
+		int num1, num2, operator;
+		Double answer, userAnswer;
+		Scanner input = new Scanner(System.in);
+		
+		num1 = (int)(10 * Math.random() + 1);
+		num2 = (int)(10 * Math.random() + 1);
+		operator = (int)(4 * Math.random() +1); // operator: (1,+) (2,-) (3,*) (4,/)
+		
+		if (operator ==1) {
+			answer = num1 + num2;
+			System.out.print("What is " + num1 + " + " + num2 + " ? ");
+		} else if (operator == 2) {
+			answer = num1 - num2;
+			System.out.print("What is " + num1 + " - " + num2 + " ? ");
+		} else if (operator == 3) {
+			answer = num1 * num2;
+			System.out.print("What is " + num1 + " * " + num2 + " ? ");
+		} else {
+			answer = num1 / num2;
+			System.out.print("What is " + num1 + " / " + num2 + " ? ");
+		}
+		
+		userAnswer = input.nextInt();
+		
+		if (answer == userAnswer) {
+			System.out.println("Correct!");
+		} else {
+			System.out.println("Wrong!");
+		}
+	}
+
+}

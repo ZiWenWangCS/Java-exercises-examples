@@ -1,0 +1,24 @@
+package exercises;
+
+import java.util.Scanner;
+
+public class Exercise6 {
+
+	public static void main(String[] args) {
+		int num1, num2, operator, answer, userAnswer;
+		Scanner input = new Scanner(System.in);
+		
+		num1 = (int)(10 * Math.random() + 1);
+		num2 = (int)(10 * Math.random() + 1);
+		operator = (int)(4 * Math.random() +1); // operator: (1,+) (2,-) (3,*) (4,/)
+		
+		if (operator ==1) {
+			answer = num1 + num2;
+			System.out.print("What is " + num1 + " + " + num2 + " ? ");
+		} else if (operator == 2) {
+			answer = num1 - num2;
+			System.out.print("What is " + num1 + " - " + num2 + " ? ");
+		}
+	}
+
+}

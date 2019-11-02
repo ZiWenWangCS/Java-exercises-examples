@@ -1,0 +1,97 @@
+2019-02-04 10:30:53,687 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-02-05 10:04:42,789 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-05 10:19:00,138 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-06 10:02:50,617 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-07 10:04:22,604 [Worker-10: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-09 21:54:32,090 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-09 23:57:13,474 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-09 23:58:57,317 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-10 13:17:21,294 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-11 10:10:48,276 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-12 10:03:40,490 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-13 10:03:56,184 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-14 10:06:01,715 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-14 15:44:36,694 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-15 10:01:53,218 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-19 09:54:26,886 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-19 10:12:48,728 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-19 12:56:12,583 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-02-20 10:04:05,498 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-21 09:22:50,040 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-02-21 10:04:02,807 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-22 09:36:54,811 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-22 10:15:22,817 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-26 10:28:34,714 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-02-26 10:31:55,946 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-26 11:09:08,373 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-26 12:53:02,327 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-27 10:10:03,832 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-28 10:04:58,574 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-01 10:05:12,477 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-04 09:57:12,479 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-05 10:02:40,046 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-06 10:00:22,686 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-06 10:39:20,027 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-06 12:48:39,015 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-07 10:10:11,857 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-08 10:05:17,828 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-11 10:07:37,317 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-12 10:11:48,375 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-13 10:03:54,776 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-14 10:03:59,024 [Worker-8: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-18 10:12:13,297 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-19 10:10:17,821 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-20 10:04:06,073 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-21 10:06:08,323 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-22 10:04:55,035 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-27 22:36:59,833 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-28 16:06:23,968 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-07 18:46:29,157 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-06-07 18:53:23,777 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-09 18:38:50,949 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-09 18:38:58,030 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-06-10 08:30:01,474 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-01 21:35:21,426 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-01 21:35:22,577 [Worker-2: Loading available Gradle versions] WARN  o.e.b.c.i.u.g.PublishedGradleVersions - Can't close stream after downloading published Gradle versions
+javax.net.ssl.SSLException: Connection has been shutdown: javax.net.ssl.SSLException: Unsupported record version Unknown-0.14
+	at sun.security.ssl.SSLSocketImpl.checkEOF(Unknown Source) ~[na:1.8.0_211]
+	at sun.security.ssl.AppInputStream.available(Unknown Source) ~[na:1.8.0_211]
+	at java.io.BufferedInputStream.available(Unknown Source) ~[na:1.8.0_211]
+	at sun.net.www.MeteredStream.available(Unknown Source) ~[na:1.8.0_211]
+	at sun.net.www.http.KeepAliveStream.close(Unknown Source) ~[na:1.8.0_211]
+	at java.io.FilterInputStream.close(Unknown Source) ~[na:1.8.0_211]
+	at sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.close(Unknown Source) ~[na:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.implClose(Unknown Source) ~[na:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.close(Unknown Source) ~[na:1.8.0_211]
+	at java.io.InputStreamReader.close(Unknown Source) ~[na:1.8.0_211]
+	at com.google.common.io.Closeables.close(Closeables.java:76) ~[com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.downloadVersionInformation(PublishedGradleVersions.java:168) [org.eclipse.buildship.core_3.0.1.v20181217-1554.jar:na]
+	at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:148) [org.eclipse.buildship.core_3.0.1.v20181217-1554.jar:na]
+	at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.tryToUpdateOutdatedVersionsFile(PublishedGradleVersions.java:132) [org.eclipse.buildship.core_3.0.1.v20181217-1554.jar:na]
+	at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.create(PublishedGradleVersions.java:116) [org.eclipse.buildship.core_3.0.1.v20181217-1554.jar:na]
+	at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:62) [org.eclipse.buildship.core_3.0.1.v20181217-1554.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+Caused by: javax.net.ssl.SSLException: Unsupported record version Unknown-0.14
+	at sun.security.ssl.InputRecord.checkRecordVersion(Unknown Source) ~[na:1.8.0_211]
+	at sun.security.ssl.InputRecord.readV3Record(Unknown Source) ~[na:1.8.0_211]
+	at sun.security.ssl.InputRecord.read(Unknown Source) ~[na:1.8.0_211]
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source) ~[na:1.8.0_211]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source) ~[na:1.8.0_211]
+	at sun.security.ssl.AppInputStream.read(Unknown Source) ~[na:1.8.0_211]
+	at java.io.BufferedInputStream.fill(Unknown Source) ~[na:1.8.0_211]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[na:1.8.0_211]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[na:1.8.0_211]
+	at sun.net.www.MeteredStream.read(Unknown Source) ~[na:1.8.0_211]
+	at java.io.FilterInputStream.read(Unknown Source) ~[na:1.8.0_211]
+	at sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.read(Unknown Source) ~[na:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[na:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[na:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[na:1.8.0_211]
+	at java.io.InputStreamReader.read(Unknown Source) ~[na:1.8.0_211]
+	at java.io.Reader.read(Unknown Source) ~[na:1.8.0_211]
+	at com.google.common.io.CharStreams.copy(CharStreams.java:74) ~[com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.io.CharStreams.toStringBuilder(CharStreams.java:105) ~[com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.io.CharStreams.toString(CharStreams.java:92) ~[com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.downloadVersionInformation(PublishedGradleVersions.java:162) [org.eclipse.buildship.core_3.0.1.v20181217-1554.jar:na]
+	... 5 common frames omitted
+2019-11-01 21:35:22,695 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
